@@ -28,7 +28,7 @@ Worker Nodes are where applications actually run.
 ## 📊 Architecture Diagram
 Here’s a simple visualization of the flow:
 
-![Kubernetes Architecture](./k8s-architecture.png)
+![Kubernetes Architecture](./k8s architecture diagram.avif)
 
 ---
 
